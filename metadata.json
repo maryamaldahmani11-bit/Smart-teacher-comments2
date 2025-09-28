@@ -1,0 +1,5 @@
+{
+  "name": "Smart Teacher Comments",
+  "description": "An AI-powered tool for teachers to generate insightful feedback on student work from an uploaded image. Supports both English and Arabic.",
+  "requestFramePermissions": []
+}
